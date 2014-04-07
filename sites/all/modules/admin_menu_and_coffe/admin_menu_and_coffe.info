@@ -1,0 +1,7 @@
+name = admin-menu-and-coffe
+description = Prueba para activar el Administration menu y el coffe desde una feature
+core = 7.x
+package = Features
+dependencies[] = admin_menu
+dependencies[] = coffee
+features[features_api][] = api:2
