@@ -1,3 +1,4 @@
+name = Noticia_Tony
 core = 7.x
 package = Features
 dependencies[] = features
