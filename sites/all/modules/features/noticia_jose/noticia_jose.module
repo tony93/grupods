@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Noticia_jose feature.
- */
-
-include_once 'noticia_jose.features.inc';
