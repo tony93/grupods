@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Noticia_Tornatore feature.
+ */
+
+include_once 'noticia_tornatore.features.inc';

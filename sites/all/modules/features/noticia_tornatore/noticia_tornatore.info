@@ -1,0 +1,12 @@
+name = Noticia_Tornatore
+core = 7.x
+package = Features
+dependencies[] = features
+dependencies[] = text
+features[features_api][] = api:2
+features[field_base][] = body
+features[field_base][] = field_texto_descripcion
+features[field_instance][] = node-noticia_tornatore-body
+features[field_instance][] = node-noticia_tornatore-field_texto_descripcion
+features[node][] = noticia_tornatore
+project path = sites/all/modules/features
