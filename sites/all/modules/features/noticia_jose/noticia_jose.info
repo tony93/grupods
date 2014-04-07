@@ -1,0 +1,9 @@
+name = Noticia_jose
+core = 7.x
+package = Features
+dependencies[] = features
+dependencies[] = noticia_tornatore
+dependencies[] = text
+features[features_api][] = api:2
+features[field_instance][] = node-noticia_jose-body
+features[node][] = noticia_jose
